@@ -98,3 +98,29 @@ footer{
 footer h2{
     color: #ececec;
 }
+fa-solid fa-eye{
+    background-color: aqua;
+}
+
+fa-solid fa-flag{
+    font-weight: 10px;
+
+}
+fa-solid fa-bookmark{
+
+}
+@media (main-width:680px) {
+    .menu-mobile
+    display :none;
+}
+.menu-desktop{
+    display: block;
+    color: #ffff;
+}
+.menu-open li{
+    display: inline;
+    padding: 20px;
+}
+.menu-open{
+    display: inline;
+}
